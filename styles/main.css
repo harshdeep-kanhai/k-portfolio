@@ -18,3 +18,15 @@ body {
   background-size: cover;
   height: 800px;
 }
+
+a {
+  color: #337ab7;
+}
+.btn-default {
+  background-color: black;
+  font-size: 1.7em;
+}
+
+h1 {
+  font-size: 5.0em;
+}
