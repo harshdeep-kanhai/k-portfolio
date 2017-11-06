@@ -1,0 +1,13 @@
+.nav-pills {
+  font-family: 'Lobster', cursive;
+  font-size: 1.7em;
+  background-color: black;
+}
+
+body {
+  background-color: white;
+}
+
+.container-fluid {
+  padding: 0px;
+}
