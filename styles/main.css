@@ -10,6 +10,25 @@ body {
   color: white;
 }
 
+#twitterIcon {
+  color: rgb(0, 172, 237);
+}
+
+#facebookIcon {
+  color: rgb(59, 89, 163);
+}
+
+#linkedinIcon {
+  color: rgb(0, 127, 178);
+}
+
+#githubIcon {
+  color: rgb(102, 43, 129);
+}
+
+#mailIcon {
+  color: rgb(221, 75, 57);
+}
 .container-fluid {
   padding: 0px;
 }
@@ -18,6 +37,7 @@ body {
   background: url("https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=jeremy-thomas-98201.jpg&s=5e77bea21e57666b2ad722a93ab895af");
   background-size: cover;
   height: 800px;
+  padding-bottom: 10%;
 }
 
 .pageTwo {
@@ -25,6 +45,12 @@ body {
   background-size: cover;
   height: 800px;
   padding-top: 5%;
+}
+
+.pageThree {
+  background: url("https://images.unsplash.com/photo-1508923567004-3a6b8004f3d7?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=matteo-catanese-424968.jpg&s=8dce30ceb826a582c99b18845d4db43b");
+  background-size: cover;
+  height: 800px;
 }
 
 a {
