@@ -15,9 +15,16 @@ body {
 }
 
 .pageOne {
+  background: url("https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=jeremy-thomas-98201.jpg&s=5e77bea21e57666b2ad722a93ab895af");
+  background-size: cover;
+  height: 800px;
+}
+
+.pageTwo {
   background: url("https://images.unsplash.com/photo-1502657877623-f66bf489d236?auto=format&fit=crop&w=1500&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
   background-size: cover;
   height: 800px;
+  padding-top: 5%;
 }
 
 a {
@@ -41,4 +48,8 @@ h1 {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
+}
+
+p {
+  font-size: 2.2em;
 }
